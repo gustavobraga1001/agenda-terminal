@@ -1,5 +1,5 @@
 
-# Título do Projeto
+# Agenda - Python
 
 Essa aplicação tem como principal função gerenciar uma lista de contatos com a linguagem python, ela foi desenvolvida com base e auxilio do curso de Python da Rocketseat.
 
